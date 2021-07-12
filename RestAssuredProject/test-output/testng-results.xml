@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-12T09:33:56 MST" name="Default suite" finished-at="2021-07-12T09:33:57 MST" duration-ms="1414">
+    <groups>
+    </groups>
+    <test started-at="2021-07-12T09:33:56 MST" name="Default test" finished-at="2021-07-12T09:33:57 MST" duration-ms="1414">
+      <class name="Demos.Tests_httpMethods_Local">
+        <test-method signature="test_local_post()[pri:0, instance:Demos.Tests_httpMethods_Local@a2431d0]" started-at="2021-07-12T09:33:56 MST" name="test_local_post" finished-at="2021-07-12T09:33:57 MST" duration-ms="1388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_local_post -->
+      </class> <!-- Demos.Tests_httpMethods_Local -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
